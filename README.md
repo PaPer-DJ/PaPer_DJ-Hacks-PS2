@@ -8,6 +8,11 @@ INFO FREE MCBOOT & TOOLS:
 
 * https://www.youtube.com/playlist?list=PLJ4Qqog0UI_UWALVtoQZL1oWgml2b88S7
 
+PS2 | INSTALAR FREE MCBOOT 1.95 DE UNA MEMORY CARD A OTRA
+* https://youtu.be/OBdYhtOzkn4
+
+PS2 | INSTALAR OPL 0.9.3 Y CONFIGURACION INICIAL
+* https://youtu.be/50PN_lChyrY
 
 DOWNLOADS:
 
