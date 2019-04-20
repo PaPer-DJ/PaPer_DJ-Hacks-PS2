@@ -38,8 +38,11 @@ Jugar Isos PS2 por cable de Red bien explicado
 Diferencias en cargar juegos de PS2 entre USB y SMB
 * https://www.youtube.com/watch?v=bbOuO7B9d3E
 
+CARGAR JUEGOS DE PS1 por cable de Red
+* http://www.ps2-home.com/forum/viewtopic.php?t=7236
 
-  > Configuración de PS2:
+
+  > Configuración de PS2 en OPL para SAMBA:
 
 Abrimos el bloc de notas/Notepad++ y escribimos la configuración de red que tendrá la PS2:
 Código: [Seleccionar]
