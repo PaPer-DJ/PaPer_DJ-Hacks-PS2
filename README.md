@@ -31,10 +31,13 @@ MONTAR SERVIDOR SAMBA (SMB) PARA CARGAR ISOS MEDIANTE RED LOCAL (LAN)
 
 PS2 OPL SMB with Android Box for playing PS2 games over LAN/WIFI
 * https://www.youtube.com/watch?v=lmUlW3PNsI8
+
 Jugar Isos PS2 por cable de Red bien explicado
 * https://www.youtube.com/watch?v=iHfULbnYUe0
+
 Diferencias en cargar juegos de PS2 entre USB y SMB
 * https://www.youtube.com/watch?v=bbOuO7B9d3E
+
 
   > Configuración de PS2:
 
