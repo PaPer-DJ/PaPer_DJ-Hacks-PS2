@@ -49,6 +49,14 @@ CARGAR JUEGOS DE PS1 por cable de Red
 * http://www.ps2-home.com/forum/viewtopic.php?t=7236
 * https://www.youtube.com/watch?v=R4WUInFqsbc
 
+CONVERTIR JUEGOS DE .BIN .CUE A .ISO
+ > keep in mind that OPL Manager has a built in BIN to ISO converter. -- it doesn't get any easier than that! :) 
+Go to Tools / select Disc/Convert to ISO.
+
+
+* http://www.ps2-home.com/forum/viewtopic.php?f=27&t=548
+* http://www.ps2-home.com/forum/viewtopic.php?t=2290
+
 
   > Configuración de PS2 en OPL para SAMBA:
 
