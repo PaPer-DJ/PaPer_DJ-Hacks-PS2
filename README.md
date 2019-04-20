@@ -19,9 +19,14 @@ PS2 | INSTALAR OPL 0.9.3 Y CONFIGURACION INICIAL
 DOWNLOADS:
 
 * https://www.mur3.com/playstation-2/
-
 TEU 4.0 PS2 (Todo en UNO Iso para PS2) 
 (Incluido en lista de archivos)
+
+* https://oplmanager.com/site/
+
+* http://psx-scene.com/forums/official-open-ps2-loader-forum/
+
+* http://www.ps2-home.com/forum/viewforum.php?f=64
 
 ----------------------------------------------------------------------------------
 
