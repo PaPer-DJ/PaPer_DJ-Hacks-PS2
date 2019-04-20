@@ -8,7 +8,7 @@ INFO FREE MCBOOT & TOOLS:
 
 * https://www.youtube.com/playlist?list=PLJ4Qqog0UI_UWALVtoQZL1oWgml2b88S7
 
-* https://github.com/ifcaro/Open-PS2-Loader/blob/master/README.md
+* https://github.com/ifcaro/Open-PS2-Loader
 
 PS2 | INSTALAR FREE MCBOOT 1.95 DE UNA MEMORY CARD A OTRA
 * https://youtu.be/OBdYhtOzkn4
