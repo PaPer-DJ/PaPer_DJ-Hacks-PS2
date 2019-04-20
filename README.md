@@ -58,6 +58,7 @@ Go to Tools / select Disc/Convert to ISO.
 
 * http://www.ps2-home.com/forum/viewtopic.php?t=2290
 
+----------------------------------------------------------------------------------
 
   > Configuración de PS2 en OPL para SAMBA:
 
