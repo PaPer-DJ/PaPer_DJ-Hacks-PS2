@@ -53,8 +53,9 @@ CONVERTIR JUEGOS DE .BIN .CUE A .ISO
  > keep in mind that OPL Manager has a built in BIN to ISO converter. -- it doesn't get any easier than that! :) 
 Go to Tools / select Disc/Convert to ISO.
 
-
+[APP] PS2 BIN2ISO v0.1
 * http://www.ps2-home.com/forum/viewtopic.php?f=27&t=548
+
 * http://www.ps2-home.com/forum/viewtopic.php?t=2290
 
 
