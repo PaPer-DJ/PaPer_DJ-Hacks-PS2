@@ -58,6 +58,19 @@ Go to Tools / select Disc/Convert to ISO.
 
 * http://www.ps2-home.com/forum/viewtopic.php?t=2290
 
+[APP] EzISO Renamer - Rename your ISO files with one click
+
+Place this file next to your "DVD" and "CD" folders (the ones you created for OPL), launch the program and sit back.
+In a few seconds your ISO library will be correctly renamed.
+
+The program will automatically detect:
+- Files that are already named correctly (will be skipped)
+- File extensions that are in uppercase (files will be renamed to *.iso instead of *.ISO)
+- Filenames that are longer than 32 characters (will be skipped)
+
+From version 1.2, you can also drag and drop iso files or directories containing iso file on the program's icon to process them instantly.
+* http://psx-scene.com/forums/f150/eziso-renamer-rename-your-iso-files-one-click-117233/
+
 ----------------------------------------------------------------------------------
 
   > Configuración de PS2 en OPL para SAMBA:
