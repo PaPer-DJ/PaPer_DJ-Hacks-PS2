@@ -40,6 +40,7 @@ Diferencias en cargar juegos de PS2 entre USB y SMB
 
 CARGAR JUEGOS DE PS1 por cable de Red
 * http://www.ps2-home.com/forum/viewtopic.php?t=7236
+* https://www.youtube.com/watch?v=R4WUInFqsbc
 
 
   > Configuración de PS2 en OPL para SAMBA:
