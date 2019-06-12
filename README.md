@@ -28,6 +28,10 @@ TEU 4.0 PS2 (Todo en UNO Iso para PS2)
 
 * http://www.ps2-home.com/forum/viewforum.php?f=64
 
+EMULATION:
+
+* https://pcsx2.net/
+
 ----------------------------------------------------------------------------------
 
 MONTAR SERVIDOR SAMBA (SMB) PARA CARGAR ISOS MEDIANTE RED LOCAL (LAN)
