@@ -2,7 +2,7 @@
 PaPer_DJ-Hacks-PS2 (Free McBoot)
 
 ----------------------------------------------------------------------------------
-INFO FREE MCBOOT & TOOLS:
+# INFO FREE MCBOOT & TOOLS:
 
 * https://www.mur3.com/ps2-instalar-free-mcboot-1-95-de-una-memory-card-a-otra/
 
@@ -13,19 +13,19 @@ INFO FREE MCBOOT & TOOLS:
 * http://www.ps2-home.com/forum/viewforum.php?f=13
 
 
-PS2 | INSTALAR FREE MCBOOT 1.95 DE UNA MEMORY CARD A OTRA
+# PS2 | INSTALAR FREE MCBOOT 1.95 DE UNA MEMORY CARD A OTRA
 * https://youtu.be/OBdYhtOzkn4
 
-PS2 | INSTALAR OPL 0.9.3 Y CONFIGURACION INICIAL
+# PS2 | INSTALAR OPL 0.9.3 Y CONFIGURACION INICIAL
 * https://youtu.be/50PN_lChyrY
 
-ULTIMA Y MEJOR VERSION ESTABLE DE OPL
+# ULTIMA Y MEJOR VERSION ESTABLE DE OPL
 * OPL 0.9.4 Rev.1564 ALL.zip
 
-MANAGER (Software) para gestionar los juegos y caratulas PS2 en el PC
+# MANAGER (Software) para gestionar los juegos y caratulas PS2 en el PC
 * https://oplmanager.com/site/
 
-UTILIZAR MANDOS USB O BLUETOOTH (PS3, PS4) EN LA PS2 (PADEMU)
+# UTILIZAR MANDOS USB O BLUETOOTH (PS3, PS4) EN LA PS2 (PADEMU)
 * http://www.ps2-home.com/forum/viewtopic.php?f=30&t=7447&sid=05ef402a0a321bbecc5f5b714b35fd58
   * Quick tutorial: 
 1) Install latest OPL Daily Build and launch it.
@@ -36,7 +36,7 @@ UTILIZAR MANDOS USB O BLUETOOTH (PS3, PS4) EN LA PS2 (PADEMU)
 
 (Bluetooth usb adapters needs to support EDR)
 
-UTILIZAR OPL EN PS3 PARA CARGAR JUEGOS PS2 EN PS3 (Por USB o por Ethernet)
+# UTILIZAR OPL EN PS3 PARA CARGAR JUEGOS PS2 EN PS3 (Por USB o por Ethernet)
 
 * To launch OPL, you can use any of the existing methods for loading an
 executable elf.
@@ -55,7 +55,7 @@ SMBOOT3.ELF = UP + R2
 Note: on PS3, only USB and SMB modes are supported.
 
 
-DOWNLOADS:
+# DOWNLOADS:
 
 * https://www.mur3.com/playstation-2/
 TEU 4.0 PS2 (Todo en UNO Iso para PS2) 
@@ -65,13 +65,13 @@ TEU 4.0 PS2 (Todo en UNO Iso para PS2)
 
 * http://www.ps2-home.com/forum/viewforum.php?f=64
 
-EMULATION:
+# EMULATION:
 
 * https://pcsx2.net/
 
 ----------------------------------------------------------------------------------
 
-MONTAR SERVIDOR SAMBA (SMB) PARA CARGAR ISOS MEDIANTE RED LOCAL (LAN)
+# MONTAR SERVIDOR SAMBA (SMB) PARA CARGAR ISOS MEDIANTE RED LOCAL (LAN)
 
 * https://foro.seguridadwireless.net/openwrt/(tutorial)configura-samba-para-cargar-por-red-tus-juegos-de-ps2/
 
@@ -86,20 +86,20 @@ Jugar Isos PS2 por cable de Red bien explicado
 Diferencias en cargar juegos de PS2 entre USB y SMB
 * https://www.youtube.com/watch?v=bbOuO7B9d3E
 
-CARGAR JUEGOS DE PS1 por cable de Red
+# CARGAR JUEGOS DE PS1 por cable de Red
 * http://www.ps2-home.com/forum/viewtopic.php?t=7236
 * https://www.youtube.com/watch?v=R4WUInFqsbc
 
-CONVERTIR JUEGOS DE .BIN .CUE A .ISO
+# CONVERTIR JUEGOS DE .BIN .CUE A .ISO
  > keep in mind that OPL Manager has a built in BIN to ISO converter. -- it doesn't get any easier than that! :) 
 Go to Tools / select Disc/Convert to ISO.
 
-[APP] PS2 BIN2ISO v0.1
+# [APP] PS2 BIN2ISO v0.1
 * http://www.ps2-home.com/forum/viewtopic.php?f=27&t=548
 
 * http://www.ps2-home.com/forum/viewtopic.php?t=2290
 
-[APP] EzISO Renamer - Rename your ISO files with one click
+# [APP] EzISO Renamer - Rename your ISO files with one click
 
 Place this file next to your "DVD" and "CD" folders (the ones you created for OPL), launch the program and sit back.
 In a few seconds your ISO library will be correctly renamed.
@@ -114,7 +114,7 @@ From version 1.2, you can also drag and drop iso files or directories containing
 
 ----------------------------------------------------------------------------------
 
-  > Configuración de PS2 en OPL para SAMBA:
+#   > Configuración de PS2 en OPL para SAMBA:
 
 Abrimos el bloc de notas/Notepad++ y escribimos la configuración de red que tendrá la PS2:
 Código: [Seleccionar]
