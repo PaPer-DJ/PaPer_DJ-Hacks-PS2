@@ -19,9 +19,12 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 # PS2 | INSTALAR OPL 0.9.3 Y CONFIGURACION INICIAL
 * https://youtu.be/50PN_lChyrY
 
-# ULTIMA Y MEJOR VERSION ESTABLE DE OPL
+# OPL - Open PS2 Loader - ULTIMA Y MEJOR VERSION ESTABLE DE OPL
 * OPL 0.9.4 Rev.1564 ALL.zip
  - https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2/raw/master/OPL_Manager_V21.4%20(CLEAN).zip
+
+# OPL - Open PS2 Loader - ULTIMAS BETAS E INFO
+* https://akuhak.github.io/test_build/
 * http://psx-scene.com/forums/official-open-ps2-loader-forum/
 * http://www.ps2-home.com/forum/viewforum.php?f=13
 
