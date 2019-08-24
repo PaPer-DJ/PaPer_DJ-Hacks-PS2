@@ -25,6 +25,16 @@ ULTIMA Y MEJOR VERSION ESTABLE DE OPL
 MANAGER (Software) para gestionar los juegos y caratulas PS2 en el PC
 * https://oplmanager.com/site/
 
+UTILIZAR MANDOS USB O BLUETOOTH (PS3, PS4) EN LA PS2 (PADEMU)
+* http://www.ps2-home.com/forum/viewtopic.php?f=30&t=7447&sid=05ef402a0a321bbecc5f5b714b35fd58
+ * Quick tutorial: 
+1) Install latest OPL Daily Build and launch it.
+2) Press Triangle on the game and go to PADEMU 
+3) Enable emulator for 1P and 2P and vibration (if desired) 
+4) Plug in each controller via usb cable and click on pair. 
+5) Save settings and then test in your favorite game!
+
+
 
 DOWNLOADS:
 
