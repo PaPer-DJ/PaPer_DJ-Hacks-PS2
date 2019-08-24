@@ -40,14 +40,14 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 # UTILIZAR OPL EN PS3 PARA CARGAR JUEGOS PS2 EN PS3 (Por USB o por Ethernet)
 * ¿Para qué? - Puedes usar el mismo disco dura donde tienes los juegos de la PS3, y de esta manera tener todos tus juegos PS3 y PS2 en el mismo disco duro externo USB (Max 2TB en Fat32)
 
-* To launch OPL, you can use any of the existing methods for loading an
+  * To launch OPL, you can use any of the existing methods for loading an
 executable elf.
-On PS3, you need an original SwapMagic 3.6+ or 3.8 disc (at the moment
+  On PS3, you need an original SwapMagic 3.6+ or 3.8 disc (at the moment
 there aren't any other options). The steps for loading OPL on a PS3 are:
 
-Rename OPNPS2LD.ELF to SMBOOT0.ELF
-Make a folder in root of USB device called SWAPMAGIC and copy SMBOOT0.ELF to it.
-Launch SwapMagic in PS3 and press UP+L1 then Open PS2 Loader should start.
+  Rename OPNPS2LD.ELF to SMBOOT0.ELF
+  Make a folder in root of USB device called SWAPMAGIC and copy SMBOOT0.ELF to it.
+  Launch SwapMagic in PS3 and press UP+L1 then Open PS2 Loader should start.
 
 There are 4 forms for launching elfs in SwapMagic.
 SMBOOT0.ELF = UP + L1
