@@ -42,19 +42,18 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 
   * To launch OPL, you can use any of the existing methods for loading an
 executable elf.
-  On PS3, you need an original SwapMagic 3.6+ or 3.8 disc (at the moment
+  * On PS3, you need an original SwapMagic 3.6+ or 3.8 disc (at the moment
 there aren't any other options). The steps for loading OPL on a PS3 are:
+  * Rename OPNPS2LD.ELF to SMBOOT0.ELF
+  * Make a folder in root of USB device called SWAPMAGIC and copy SMBOOT0.ELF to it.
+  * Launch SwapMagic in PS3 and press UP+L1 then Open PS2 Loader should start.
 
-  Rename OPNPS2LD.ELF to SMBOOT0.ELF
-  Make a folder in root of USB device called SWAPMAGIC and copy SMBOOT0.ELF to it.
-  Launch SwapMagic in PS3 and press UP+L1 then Open PS2 Loader should start.
-
-There are 4 forms for launching elfs in SwapMagic.
+  * There are 4 forms for launching elfs in SwapMagic.
 SMBOOT0.ELF = UP + L1
 SMBOOT1.ELF = UP + L2
 SMBOOT2.ELF = UP + R1
 SMBOOT3.ELF = UP + R2
-Note: on PS3, only USB and SMB modes are supported.
+  * Note: on PS3, only USB and SMB modes are supported.
 
 
 # DOWNLOADS:
