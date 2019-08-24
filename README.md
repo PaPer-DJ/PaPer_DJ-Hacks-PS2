@@ -27,6 +27,7 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 * https://akuhak.github.io/test_build/
 * http://psx-scene.com/forums/official-open-ps2-loader-forum/
 * http://www.ps2-home.com/forum/viewforum.php?f=13
+* https://gitlab.com/ps2max/Open-PS2-Loader/-/jobs/103507268/artifacts/browse
 
 # MANAGER (Software) para gestionar los juegos y caratulas PS2 en el PC
 * https://oplmanager.com/site/
