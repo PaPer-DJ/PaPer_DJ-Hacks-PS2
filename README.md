@@ -33,6 +33,7 @@ UTILIZAR MANDOS USB O BLUETOOTH (PS3, PS4) EN LA PS2 (PADEMU)
 3) Enable emulator for 1P and 2P and vibration (if desired) 
 4) Plug in each controller via usb cable and click on pair. 
 5) Save settings and then test in your favorite game!
+(Bluetooth usb adapters needs to support EDR)
 
 
 
