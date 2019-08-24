@@ -38,6 +38,7 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 (Bluetooth usb adapters needs to support EDR)
 
 # UTILIZAR OPL EN PS3 PARA CARGAR JUEGOS PS2 EN PS3 (Por USB o por Ethernet)
+* ¿Para qué? - Puedes usar el mismo disco dura donde tienes los juegos de la PS3, y de esta manera tener todos tus juegos PS3 y PS2 en el mismo disco duro externo USB (Max 2TB en Fat32)
 
 * To launch OPL, you can use any of the existing methods for loading an
 executable elf.
