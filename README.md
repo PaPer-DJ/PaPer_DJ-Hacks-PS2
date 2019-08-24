@@ -23,6 +23,7 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 * OPL 0.9.4 Rev.1564 ALL.zip
  - https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2/raw/master/OPL_Manager_V21.4%20(CLEAN).zip
 * http://psx-scene.com/forums/official-open-ps2-loader-forum/
+* http://www.ps2-home.com/forum/viewforum.php?f=13
 
 # MANAGER (Software) para gestionar los juegos y caratulas PS2 en el PC
 * https://oplmanager.com/site/
