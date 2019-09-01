@@ -14,7 +14,6 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 
 * http://ps2linux.no-ip.info/playstation2-linux.com/softwaremap/allgroups.html
 
-* https://www.psx-place.com/resources/retroarch-ps2.765/
 
 # * https://www.psx-place.com/resources/categories/playstation-2-ps2.7/
 
@@ -37,6 +36,13 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 
 # MANAGER (Software) para gestionar los juegos y caratulas PS2 en el PC
 * https://oplmanager.com/site/
+
+Para Instalar Juegos en Disco Duro INTERNO
+* https://www.psx-place.com/resources/hdlgameinstaller.709/
+
+# MODS EXPERIMENTALES
+* https://www.psx-place.com/resources/retroarch-ps2.765/
+* https://www.psx-place.com/threads/ps2-intro-loader.23004/
 
 # UTILIZAR MANDOS USB O BLUETOOTH (PS3, PS4) EN LA PS2 (PADEMU)
 * http://www.ps2-home.com/forum/viewtopic.php?f=30&t=7447&sid=05ef402a0a321bbecc5f5b714b35fd58
