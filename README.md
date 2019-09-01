@@ -12,6 +12,8 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 
 * http://www.ps2-home.com/forum/viewforum.php?f=13
 
+* http://ps2linux.no-ip.info/playstation2-linux.com/softwaremap/allgroups.html
+
 # * https://www.psx-place.com/resources/categories/playstation-2-ps2.7/
 
 
