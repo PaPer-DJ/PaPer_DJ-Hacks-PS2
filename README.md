@@ -12,6 +12,8 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 
 * http://www.ps2-home.com/forum/viewforum.php?f=13
 
+# * https://www.psx-place.com/resources/categories/playstation-2-ps2.7/
+
 
 # PS2 | INSTALAR FREE MCBOOT 1.95 DE UNA MEMORY CARD A OTRA
 * https://youtu.be/OBdYhtOzkn4
