@@ -8,9 +8,10 @@ PaPer_DJ-Hacks-PS2 (Free McBoot)
 
 * https://www.youtube.com/playlist?list=PLJ4Qqog0UI_UWALVtoQZL1oWgml2b88S7
 
-* https://github.com/ifcaro/Open-PS2-Loader
-
+INFO Y RECURSOS OPL (Open PS2 Loader)
 * http://www.ps2-home.com/forum/viewforum.php?f=13
+
+* https://github.com/ifcaro/Open-PS2-Loader
 
 * http://ps2linux.no-ip.info/playstation2-linux.com/softwaremap/allgroups.html
 
